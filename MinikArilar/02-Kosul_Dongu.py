@@ -145,6 +145,8 @@ while sayaç <= sayi:
     elif(sayaç % 5 == 0):
         print("Buzz ", sayaç)
 
+    sayaç = sayaç + 1
+
 # listeler
 # for dongusu
 # fonksiyonlar
